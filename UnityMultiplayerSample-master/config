@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = "https://github.com/zzplumbzz/UnityMultiplayerSample#readme"
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "upstream"]
+	url = https://github.com/iansmathew/UnityMultiplayerSample.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*
